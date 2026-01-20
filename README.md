@@ -140,7 +140,7 @@ Instituto Tecnológico Superior de Ciudad Hidalgo
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: *Agrega tu enlace*
+* 💼 LinkedIn: https://www.linkedin.com/in/luismariovanegascruz/
 * 📧 Email: [luis.m.vanegas12@gmail.com](mailto:luis.m.vanegas12@gmail.com)
 * 🐙 GitHub: [https://github.com/luismario.vc](https://github.com/luismario.vc)
 
