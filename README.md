@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Luis Mario Vanegas
+#  Luis Mario Vanegas Cruz
 
 ### Android Developer · Kotlin · Jetpack Compose · KMP
 
@@ -60,4 +60,64 @@ Me enfoco en código **mantenible y escalable**: MVVM, Clean Architecture, Compo
 ### **Proyecto enterprise actual** · Android Developer  
 *2025 – Presente*
 
-- App modular de expediente/traspaso con **H
+- App modular de expediente/traspaso con **Hilt**, **Room**, **Retrofit** y **Compose**.
+- Flujos de captura biométrica, **modo offline** con sync bajo demanda y reautenticación de sesión.
+- Trabajo con **PRs, incidencias** y releases en entorno corporativo (Azure DevOps).
+
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [**Laminado-y-pintura**](https://github.com/luismariovc/Laminado-y-pintura) | App KMP para cotización de laminado y pintura · Compose · Firebase |
+| [**Prueba-TVAzteca-Android**](https://github.com/luismariovc/Prueba-TVAzteca-Android) | Ejercicio técnico Android · arquitectura y consumo de APIs |
+| [**Arquitectura Compose + StateFlow**](https://github.com/luismariovc/Arquitectura-correcta-de-Compose-StateFlow-UiState-) | Patrón UiState/StateFlow en Compose · MVVM |
+| [**GymAppAdmin**](https://github.com/luismariovc/GymAppAdmin) | Administración de gimnasio · Kotlin · Firebase |
+| [**PokeAppi**](https://github.com/luismariovc/PokeAppi) | Consumo de REST API (PokéAPI) · Kotlin |
+
+---
+
+## 🛠️ Stack
+
+| Área | Tecnologías |
+|------|-------------|
+| **Mobile** | Kotlin, Android SDK, Jetpack Compose, KMP |
+| **Arquitectura** | MVVM, Clean Architecture, SOLID, módulos por feature |
+| **Data** | Retrofit, Room, SharedPreferences, Firebase |
+| **DI & async** | Hilt, Coroutines, StateFlow |
+| **Tools** | Git, GitHub, Android Studio, Jira, GitLab, Azure DevOps, Scrum |
+
+---
+
+## 📈 Enfoque actual
+
+- Arquitectura modular en apps enterprise (feature modules, capas domain/data).
+- Flujos **offline**, sincronización de trámites y manejo de errores de red.
+- Testing, calidad de código y resolución de incidencias en producción.
+
+---
+
+## 🎓 Educación
+
+**Ingeniería en Mecatrónica** · Instituto Tecnológico Superior de Ciudad Hidalgo  
+*2020 – 2025*
+
+---
+
+## 🌍 Idiomas
+
+- **Español:** Nativo  
+- **Inglés:** B1 (lectura técnica y documentación)
+
+---
+
+<div align="center">
+
+### 📫 ¿Vacante Android o colaboración?
+
+**[LinkedIn](https://www.linkedin.com/in/luismariovanegascruz/)** · **luis.m.vanegas12@gmail.com**
+
+*Construyendo software móvil de calidad 🚀*
+
+</div>
