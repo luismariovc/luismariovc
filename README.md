@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Luis Mario Vanegas Cruz
+# Luis Mario Vanegas Cruz
 
 ### Android Developer · Kotlin · Jetpack Compose · KMP
 
