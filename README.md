@@ -4,7 +4,7 @@
 
 ### Android Developer · Kotlin · Jetpack Compose · KMP
 
-Desarrollo aplicaciones móviles **en producción**, con foco en arquitectura limpia, UX y mantenibilidad.
+Construyo aplicaciones móviles **en producción** para negocio real: fintech, enterprise y productos propios.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismariovanegascruz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.m.vanegas12@gmail.com)
@@ -16,9 +16,9 @@ Desarrollo aplicaciones móviles **en producción**, con foco en arquitectura li
 
 ## 🚀 Sobre mí
 
-Android Developer con experiencia en apps **empresariales y de negocio**, participando en flujos completos: captura de datos, validaciones, integración con APIs, persistencia local y despliegue a producción.
+Android Developer con **+3 años** construyendo apps nativas y multiplataforma. He participado en productos publicados, flujos complejos (captura, validaciones, APIs, persistencia local) y trabajo en equipo bajo **Scrum**.
 
-Me especializo en **Kotlin, Jetpack Compose, MVVM y Clean Architecture**, con interés activo en **Kotlin Multiplatform** y buenas prácticas de escalabilidad.
+Me enfoco en código **mantenible y escalable**: MVVM, Clean Architecture, Compose y buenas prácticas en apps que sí llegan a producción.
 
 ---
 
@@ -27,85 +27,37 @@ Me especializo en **Kotlin, Jetpack Compose, MVVM y Clean Architecture**, con in
 ### **CityAutoWraps** · Android / Mobile Developer  
 *Feb 2025 – Presente*
 
-- Desarrollo de app empresarial con **Kotlin Multiplatform** y **Compose Multiplatform**.
-- Arquitectura **MVVM** con separación de capas y código compartido.
+- App empresarial con **Kotlin Multiplatform** y **Compose Multiplatform**.
+- Arquitectura **MVVM** con código compartido entre plataformas.
+- **Cotización y facturación en PDF** con firma digital.
 - Integración de **Firebase** (Auth, Firestore, Storage).
-- Generación de **facturación en PDF** con firma digital.
 - Participación en decisiones de arquitectura y evolución del producto.
+
+🔗 [Laminado-y-pintura](https://github.com/luismariovc/Laminado-y-pintura)
 
 ### **GoalZone** · Android Developer  
 *Ago 2024 – Ene 2025*
 
-- App Android nativa para **gestión de torneos**.
+- App Android para **gestión de gimnasios y torneos**.
 - **MVVM** + Jetpack (ViewModel, LiveData, Navigation).
-- Integración con Firebase y trabajo bajo **Scrum**.
+- Integración con Firebase y metodología **Scrum**.
+
+🔗 [GymAppAdmin](https://github.com/luismariovc/GymAppAdmin)
 
 ### **CupónStore** · Android Developer  
 *Nov 2022 – Jul 2024*
 
-- Features en **Kotlin** con consumo de **REST APIs**.
+- Desarrollo de features en **Kotlin** con consumo de **REST APIs**.
 - Backend con **Firebase** y gestión de tareas en **Jira**.
 
 ### **Huella Azteca (Grupo Salinas)** · Android Developer  
 *Dic 2021 – Ago 2022*
 
-- Desarrollo en **Kotlin + MVVM + Jetpack Compose** para app financiera en producción.
+- App financiera en **producción**: Kotlin, **MVVM** y **Jetpack Compose**.
 - Integración de **REST APIs**, **Firebase** y **AWS** (Amplify, Cognito).
-- Persistencia local con **Room** y **SharedPreferences**.
+- Persistencia local con **Room** y SharedPreferences.
 
----
+### **Proyecto enterprise actual** · Android Developer  
+*2025 – Presente*
 
-## 🛠️ Stack
-
-| Área | Tecnologías |
-|------|-------------|
-| **Mobile** | Kotlin, Android SDK, Jetpack Compose, KMP |
-| **Arquitectura** | MVVM, Clean Architecture, SOLID, capas |
-| **Data** | Retrofit, Room, SharedPreferences, Firebase |
-| **Tools** | Git, GitHub, Android Studio, Jira, GitLab, Scrum |
-
----
-
-## 📂 Proyectos
-
-> 👉 Revisa mis **repositorios fijados (pinned)** para ver código real.
-
-| Proyecto | Descripción |
-|----------|-------------|
-| **[Nombre del repo]** | [1 línea: qué hace + stack] |
-| **[Nombre del repo]** | [1 línea: qué hace + stack] |
-| **[Nombre del repo]** | [1 línea: qué hace + stack] |
-
-*Tip: fija 3–6 repos con README propio en cada uno.*
-
----
-
-## 📈 Enfoque actual
-
-- Arquitectura modular en apps grandes (feature modules, DI).
-- Flujos offline / sincronización y manejo de errores de red.
-- Testing y calidad en código de producción.
-
----
-
-## 🎓 Educación
-
-**Ingeniería en Mecatrónica** · Instituto Tecnológico Superior de Ciudad Hidalgo  
-*2020 – 2025*
-
----
-
-## 🌍 Idiomas
-
-- **Español:** Nativo  
-- **Inglés:** B1 (lectura técnica y documentación)
-
----
-
-<div align="center">
-
-⭐ Si te interesa colaborar o tienes una vacante Android, **[contáctame por LinkedIn](https://www.linkedin.com/in/luismariovanegascruz/)**
-
-*Construyendo software móvil de calidad 🚀*
-
-</div>
+- App modular de expediente/traspaso con **H
