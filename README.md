@@ -1,154 +1,111 @@
 <div align="center">
 
-# 👋 Hola, soy **Luis Mario Vanegas**
+# 👋 Luis Mario Vanegas
 
-### 📱 Android / Mobile Developer | Kotlin | Jetpack Compose
+### Android Developer · Kotlin · Jetpack Compose · KMP
 
-Desarrollador Android enfocado en crear aplicaciones móviles **modernas, escalables y listas para producción**.
+Desarrollo aplicaciones móviles **en producción**, con foco en arquitectura limpia, UX y mantenibilidad.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismariovanegascruz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.m.vanegas12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luismariovc)
 
 </div>
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Sobre mí
 
-Soy **Android / Mobile Developer** con experiencia en el desarrollo de aplicaciones móviles orientadas a negocio, participando en **proyectos reales y aplicaciones en producción**.
+Android Developer con experiencia en apps **empresariales y de negocio**, participando en flujos completos: captura de datos, validaciones, integración con APIs, persistencia local y despliegue a producción.
 
-Me especializo en **Kotlin**, **Jetpack Compose**, **Kotlin Multiplatform** y arquitectura **MVVM**, con un fuerte enfoque en **buenas prácticas**, **mantenibilidad** y **escalabilidad** del código.
-
-Disfruto trabajar en equipo, aportar a decisiones técnicas y seguir aprendiendo continuamente sobre arquitectura y desarrollo móvil moderno.
+Me especializo en **Kotlin, Jetpack Compose, MVVM y Clean Architecture**, con interés activo en **Kotlin Multiplatform** y buenas prácticas de escalabilidad.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experiencia
 
-### 📱 Mobile
+### **CityAutoWraps** · Android / Mobile Developer  
+*Feb 2025 – Presente*
 
-* **Kotlin**
-* **Android SDK**
-* **Jetpack Compose / Compose Multiplatform**
-* **Kotlin Multiplatform (KMP)**
+- Desarrollo de app empresarial con **Kotlin Multiplatform** y **Compose Multiplatform**.
+- Arquitectura **MVVM** con separación de capas y código compartido.
+- Integración de **Firebase** (Auth, Firestore, Storage).
+- Generación de **facturación en PDF** con firma digital.
+- Participación en decisiones de arquitectura y evolución del producto.
 
-### 🧱 Arquitectura & Patrones
+### **GoalZone** · Android Developer  
+*Ago 2024 – Ene 2025*
 
-* MVVM
-* Clean Architecture
-* SOLID
-* Separación de capas
+- App Android nativa para **gestión de torneos**.
+- **MVVM** + Jetpack (ViewModel, LiveData, Navigation).
+- Integración con Firebase y trabajo bajo **Scrum**.
 
-### 🔌 Backend & Data
+### **CupónStore** · Android Developer  
+*Nov 2022 – Jul 2024*
 
-* REST APIs
-* Retrofit
-* Firebase (Auth, Firestore, Storage, Analytics)
-* Room (SQLite)
-* SharedPreferences
+- Features en **Kotlin** con consumo de **REST APIs**.
+- Backend con **Firebase** y gestión de tareas en **Jira**.
 
-### ⚙️ Herramientas
+### **Huella Azteca (Grupo Salinas)** · Android Developer  
+*Dic 2021 – Ago 2022*
 
-* Git & GitHub
-* Android Studio
-* Jira
-* GitLab
-* Scrum / Agile
-
----
-
-## 💼 Experiencia Profesional
-
-### **CityAutoWraps**
-
-**Android / Mobile Developer** | *Feb 2025 – Presente*
-
-* Desarrollo de aplicación móvil empresarial usando **Kotlin Multiplatform**.
-* Implementación de **arquitectura MVVM** para una base de código escalable.
-* Interfaces modernas con **Jetpack Compose Multiplatform**.
-* Generación de **facturación en PDF con firma digital**.
-* Integración de **Firebase** (Auth, Firestore, Storage).
-* Participación activa en **decisiones técnicas y arquitectura**.
-
-### **GoalZone**
-
-**Android Developer** | *Ago 2024 – Ene 2025*
-
-* Desarrollo de aplicación Android nativa para gestión de torneos.
-* Implementación de **MVVM** y Jetpack (ViewModel, LiveData, Navigation).
-* Integración de Firebase.
-* Trabajo bajo metodología **Scrum**.
-
-### **CupónStore**
-
-**Android Developer** | *Nov 2022 – Jul 2024*
-
-* Desarrollo de funcionalidades en Kotlin.
-* Consumo de **REST APIs**.
-* Uso de Firebase como backend.
-* Gestión de tareas con **Jira**.
-
-### **Huella Azteca (Grupo Salinas)**
-
-**Android Developer** | *Dic 2021 – Ago 2022*
-
-* Desarrollo y mantenimiento de funcionalidades en Kotlin y MVVM.
-* Interfaces con **Jetpack Compose**.
-* Consumo de APIs REST.
-* Firebase y servicios en la nube con **AWS (Amplify, Cognito)**.
-* Persistencia local con **Room** y SharedPreferences.
+- Desarrollo en **Kotlin + MVVM + Jetpack Compose** para app financiera en producción.
+- Integración de **REST APIs**, **Firebase** y **AWS** (Amplify, Cognito).
+- Persistencia local con **Room** y **SharedPreferences**.
 
 ---
 
-## 📂 Proyectos Destacados
+## 🛠️ Stack
 
-🔹 **Aplicaciones Android en Producción**
-
-* Arquitectura MVVM
-* UI moderna con Compose
-* Integración de APIs y Firebase
-
-🔹 **Proyectos Kotlin Multiplatform**
-
-* Código compartido
-* Escalabilidad y mantenibilidad
-
-👉 Revisa mis **repositorios fijados** para ver ejemplos reales de mi trabajo.
+| Área | Tecnologías |
+|------|-------------|
+| **Mobile** | Kotlin, Android SDK, Jetpack Compose, KMP |
+| **Arquitectura** | MVVM, Clean Architecture, SOLID, capas |
+| **Data** | Retrofit, Room, SharedPreferences, Firebase |
+| **Tools** | Git, GitHub, Android Studio, Jira, GitLab, Scrum |
 
 ---
 
-## 📈 Actualmente aprendiendo
+## 📂 Proyectos
 
-* Arquitectura avanzada en Android
-* Optimización y testing
-* Patrones de diseño
-* Mejores prácticas para apps en producción
+> 👉 Revisa mis **repositorios fijados (pinned)** para ver código real.
+
+| Proyecto | Descripción |
+|----------|-------------|
+| **[Nombre del repo]** | [1 línea: qué hace + stack] |
+| **[Nombre del repo]** | [1 línea: qué hace + stack] |
+| **[Nombre del repo]** | [1 línea: qué hace + stack] |
+
+*Tip: fija 3–6 repos con README propio en cada uno.*
+
+---
+
+## 📈 Enfoque actual
+
+- Arquitectura modular en apps grandes (feature modules, DI).
+- Flujos offline / sincronización y manejo de errores de red.
+- Testing y calidad en código de producción.
 
 ---
 
 ## 🎓 Educación
 
-**Ingeniería en Mecatrónica**
-Instituto Tecnológico Superior de Ciudad Hidalgo
+**Ingeniería en Mecatrónica** · Instituto Tecnológico Superior de Ciudad Hidalgo  
 *2020 – 2025*
 
 ---
 
 ## 🌍 Idiomas
 
-* Español: Nativo
-* Inglés: B1 (lectura técnica)
-
----
-
-## 📫 Contacto
-
-* 💼 LinkedIn: https://www.linkedin.com/in/luismariovanegascruz/
-* 📧 Email: [luis.m.vanegas12@gmail.com](mailto:luis.m.vanegas12@gmail.com)
-* 🐙 GitHub: [https://github.com/luismario.vc](https://github.com/luismario.vc)
+- **Español:** Nativo  
+- **Inglés:** B1 (lectura técnica y documentación)
 
 ---
 
 <div align="center">
 
-⭐ Gracias por visitar mi perfil
-🚀 Construyendo software móvil de calidad
+⭐ Si te interesa colaborar o tienes una vacante Android, **[contáctame por LinkedIn](https://www.linkedin.com/in/luismariovanegascruz/)**
+
+*Construyendo software móvil de calidad 🚀*
 
 </div>
